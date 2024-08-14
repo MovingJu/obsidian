@@ -9,6 +9,3 @@ Below is example img.
 
 **this is highlighted words**
 
-ahhhhhh
-
-cool edit for real
