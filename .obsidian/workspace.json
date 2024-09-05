@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71912f532121aba9",
+        "id": "ffdea9fc9783663a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9756d75b18b1259",
+            "id": "b920479dd405f26a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7f798765f708574b",
@@ -148,13 +148,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9756d75b18b1259",
+  "active": "b920479dd405f26a",
   "lastOpenFiles": [
+    "DGIST자소서.md",
+    "디지스트자소서.png",
     "Unist 자소서.md",
     "3학년 진로활동.md",
     "유니스트자소서조건.png",
     "유니스트자소서1.png",
-    "디지스트자소서.png",
     "Excalidraw/Drawing 2024-08-24 18.57.19.excalidraw.md",
     "Untitled.canvas",
     "심화수학.md",
