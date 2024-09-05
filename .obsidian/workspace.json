@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "6aacc7acae4e4e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b503edab3c56287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DGIST자소서.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unist 자소서.md",
+                "file": "DGIST자소서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unist 자소서.md",
+                "file": "DGIST자소서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unist 자소서.md"
+                "file": "DGIST자소서.md"
               }
             }
           }
@@ -148,11 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b920479dd405f26a",
+  "active": "7b503edab3c56287",
   "lastOpenFiles": [
-    "DGIST자소서.md",
-    "디지스트자소서.png",
     "Unist 자소서.md",
+    "디지스트자소서.png",
+    "DGIST자소서.md",
     "3학년 진로활동.md",
     "유니스트자소서조건.png",
     "유니스트자소서1.png",
